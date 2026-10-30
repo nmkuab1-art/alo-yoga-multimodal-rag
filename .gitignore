@@ -1,0 +1,8 @@
+# Data and secrets stay private
+*.xlsx
+*.csv
+*.env
+.env
+*cache*.json
+__pycache__/
+.ipynb_checkpoints/

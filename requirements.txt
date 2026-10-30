@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+openpyxl
+requests
+Pillow
+torch
+transformers
+sentence-transformers
+bertopic
+nltk
+vaderSentiment
+google-genai
+youtube-transcript-api
